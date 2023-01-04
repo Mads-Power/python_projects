@@ -1,2 +1,2 @@
-# learning_python
-Collection of Python projects that i have done to learn python
+# Python Projects
+Collection of Python projects 
