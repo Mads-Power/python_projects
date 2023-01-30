@@ -1,0 +1,13 @@
+.idea/misc.xml
+.idea/modules.xml
+.idea/Python-project.iml
+.idea/vcs.xml
+.idea/inspectionProfiles/profiles_settings.xml
+scraping/.idea/.gitignore
+scraping/.idea/misc.xml
+scraping/.idea/modules.xml
+scraping/.idea/scraping.iml
+scraping/.idea/vcs.xml
+scraping/.idea/inspectionProfiles/profiles_settings.xml
+.idea/.gitignore
+Grafana/example.dashboard.py
